@@ -1,6 +1,6 @@
 # xlvk
 
-Hello! My name is Fatima Abbas, and I'm a full-stack developer in training at [Reboot01](https://learn.reboot01.com). I'm from Bahrain 🇧🇭 and passionate about learning new technologies and solving complex problems.
+Hello! My name is Fatima Abbas, and I'm a full-stack developer in training at [Reboot01](https://learn.reboot01.com). I'm from Bahrain 🇧🇭 and am passionate about learning new technologies and solving complex problems.
 
 When I'm not coding, you can find me studying at the University of Bahrain 🎓, where I'm pursuing my degree in Computer Science.
 
